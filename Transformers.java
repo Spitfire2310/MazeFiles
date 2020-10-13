@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Transformers {
 
-	
+	// I created this code to play around with and to help me learn about 'switch' statements. You are free to use it to help you learn it or as a base for your own projects.
 	
 	public static void main(String[] args) {
 		
