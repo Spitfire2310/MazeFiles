@@ -11,7 +11,7 @@ public class Transformers {
 		//boolean loop = true;
 		
 		//while(loop) {
-		System.out.println("Welcome! Please select your faction! A for Autbots or D for Decepticons. Press q to quit!");
+		System.out.println("Welcome! Please select your faction! A for Auotbots or D for Decepticons. Press q to quit!");
 		char faction = kb.nextLine().trim().toLowerCase().charAt(0);
 		
 		switch(faction) {
